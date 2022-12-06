@@ -51,3 +51,5 @@ export PATH=$PATH:$CMAKE_HOME/bin
 ```
 cmake --version
 ```
+
+Hello world
