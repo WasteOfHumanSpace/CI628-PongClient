@@ -18,6 +18,7 @@ class MyGame {
 
     private:
         SDL_Rect player1 = { 0, 0, 40, 80 };
+        SDL_Rect player2 = { 0, 0, 80, 40 };
 
     public:
         std::vector<std::string> messages;
